@@ -1,0 +1,3 @@
+I created the group in coursys. 
+I went through the suggested readings, and did some analysis (in jupyter notebook) on individual data in dev.txt to figure out what was wrong. The detailed analysis led to the modification of the missing function to penalize long words more. Tested the new modified function to test on dev.txt and test.txt as well.
+Finally I discussed with my group to agree on the solution and submit it.
