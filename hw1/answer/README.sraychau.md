@@ -1,0 +1,4 @@
+I started with implementing the Unigram model (dynamic programming and memoization) and got a score of 0.87. I had considered unknown words of upto 9 length, and used a smoothing function which penalizes long words more than the short ones.
+Then I implemented the Bigram model with JM smoothing and got a score of 0.90, using lambda of 0.7 for bigram, unknown words of upto 9 length and a unigram smoothing function which penalizes long words more than the short ones.
+I also did the analysis and documentation in the zhsegment.ipynb
+Note: While doing this homework, we worked on separate branches and decided on a final solution as a group for final submission.
